@@ -1,5 +1,5 @@
 import { RepositoryList } from './components/RepositoryList';
-import styles from './styles/global.scss';
+import '../src/styles/global.scss';
 
 export function App() {
   return (
