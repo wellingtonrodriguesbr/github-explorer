@@ -2,16 +2,11 @@ section.repository-list {
   margin: 40px;
 
   h1 {
-    margin-bottom: 16px;
+    margin-bottom: 32px;
   }
 
   ul {
     list-style-type: none;
-
-    li {
-      & + li {
-        margin-top: 20px;
-      }
 
       p {
         font-size: 14px;
@@ -21,10 +16,15 @@ section.repository-list {
 
       a {
         display: inline-block;
-        margin-top: 16px;
+        margin-top: 8px;
         text-decoration: none;
         color: #8257e6;
       }
+
+      li {
+        & + li {
+          margin-top: 32px;
+        }
+      }
     }
   }
-}
