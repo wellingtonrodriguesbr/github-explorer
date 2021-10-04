@@ -5,6 +5,7 @@ Primeiro projeto da chapter I do Ignite da Rocketseat. É um projeto simples ape
 Configuramos um projeto React do zero, aprendemos como trabalhar com os componentes, estados e propriedades. Foi apresentado os Hooks: useState e useEffect para manipulação dos dados dentro do React, vimos também sobre imutabilidade e como consumir API do Github. Começamos o projeto usando .jsx e depois migramos para .tsx para dar tipagem aos nossos componentes. 
 ##
 # Tecnologias
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
